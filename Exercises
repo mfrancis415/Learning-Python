@@ -1,8 +1,13 @@
-product_name = "Eggs"
-price = 12
-quantity = 2.5
+name = "Monica"
+age = 16
+years_until_100 = 100 - age
 
-total = price * quantity
+print(f"Hello {name}, you will turn 100 in {years_until_100} years.")
 
-print(f"Product: {product_name} | Price per unit: ${price} | Quantity: {quantity}")
-print(f"Total: ${total}")
+# Below is an interactive version
+
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+years_until_100 = 100 - age
+
+print(f"Hello {name}, you will turn 100 in {years_until_100} years.")
