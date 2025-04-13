@@ -1,6 +1,6 @@
-name = "Mon"  
-age = 49 
-favorite_number = 4
-enjoy_coding = True
+a, b = 10, 20
 
-print (f"Name: {name} |  Age: {age} | Favorite Number: {favorite_number} | Love Coding: {enjoy_coding}")
+# Swap the values
+a, b = b, a  # Python’s multiple assignment allows this swap
+
+print(a, b)  # Now a will be 20, and b will be 10
