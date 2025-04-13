@@ -1,11 +1,8 @@
-num1 = 15
-num2 = 7
-num3 = 2.5
+product_name = "Eggs"
+price = 12
+quantity = 2.5
 
-# Calculations
-add = num1 + num2 + num3
-product = num1 * num2 * num3
-average = (num1 + num2 + num3) / 3
+total = price * quantity
 
-# Output
-print(f"Sum: {add} | Product: {product} | Average: {average}")
+print(f"Product: {product_name} | Price per unit: ${price} | Quantity: {quantity}")
+print(f"Total: ${total}")
