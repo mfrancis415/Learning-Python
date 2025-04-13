@@ -1,0 +1,11 @@
+num1 = 15
+num2 = 7
+num3 = 2.5
+
+# Calculations
+add = num1 + num2 + num3
+product = num1 * num2 * num3
+average = (num1 + num2 + num3) / 3
+
+# Output
+print(f"Sum: {add} | Product: {product} | Average: {average}")
