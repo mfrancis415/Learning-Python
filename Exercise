@@ -1,0 +1,6 @@
+a, b = 10, 20
+
+# Swap the values
+a, b = b, a  # Python’s multiple assignment allows this swap
+
+print(a, b)  # Now a will be 20, and b will be 10
