@@ -1,0 +1,6 @@
+name = "Mon"  
+age = 49 
+favorite_number = 4
+enjoy_coding = True
+
+print (f"Name: {name} |  Age: {age} | Favorite Number: {favorite_number} | Love Coding: {enjoy_coding}")
