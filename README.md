@@ -1,5 +1,5 @@
 # Learning Python
-### 🚀 Week 1, Day 1: Variables in Python
+### 🚀 Variables in Python
 
 ### 💡 Key Takeaways
 - Python automatically determines the variable’s type.  
