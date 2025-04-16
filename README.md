@@ -1,6 +1,6 @@
-# 🐍 Learning Python: 7 Languages in 7 Weeks
+# Learning Python in 7 Weeks
 
-This repository contains Python exercises and notes from the [7 Week](#) challenge.
+This repository contains Python exercises and notes from the [7 Week](#) challenge, [JDoodle](https://www.jdoodle.com/python3-programming-online)
 
 ## 📚 Week 1: Core Concepts
 
