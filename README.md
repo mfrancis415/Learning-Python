@@ -1,6 +1,6 @@
 # 🐍 Learning Python: 7 Languages in 7 Weeks
 
-This repository contains Python exercises and notes from the [7 Modern Languages in 7 Weeks](#) challenge.
+This repository contains Python exercises and notes from the [7 Week](#) challenge.
 
 ## 📚 Week 1: Core Concepts
 
