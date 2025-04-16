@@ -4,7 +4,7 @@ This repository contains Python exercises and notes from the [7 Modern Languages
 
 ## 📚 Week 1: Core Concepts
 
-### ✅ Day 1: Variables and Expressions
+### ✅ Variables and Expressions
 - Explored dynamic typing in Python (`int`, `float`, `str`, `bool`)
 - Used `f-strings` for formatted output
 - Practiced variable swapping using multiple assignment
